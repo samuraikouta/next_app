@@ -17,7 +17,7 @@ export default function Layout(props) {
           {props.title}</h3>
         {props.children}
       </div>
-      <Footer footer="copyright SYODA-Tuyano." />
+      <Footer footer="copyright Xtee." />
     </div>
   )
 }
